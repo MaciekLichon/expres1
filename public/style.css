@@ -1,0 +1,13 @@
+h1 {
+  font-weight: lighter;
+  font-style: italic;
+}
+
+.darkBody {
+  background-color: grey;
+  color: white;
+}
+
+.darkBody a {
+  color: white;
+}
